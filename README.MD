@@ -25,11 +25,11 @@ Contract->
 Scripts->
 
 
-1. CheckBalance:   This script is used to check our ruppe coin balance.
+1. CheckBalance:   This script is used to check our rupee coin balance.
 
 2. Setup: This script is used to check if vault is properly setup.
 
-3. ft and rt:  This script is used to check the balances of flow and ruppe token.
+3. ft and rt:  This script is used to check the balances of flow and rupee token.
 
 4. checkFT:   This script is used to check our flow token balance.
 
